@@ -1,2 +1,3 @@
-# microverse_tributepage_mc
-Microverse coding challenge
+# Tribute Page Project for Microverse
+
+# Made by Mirhasan and Calvince
